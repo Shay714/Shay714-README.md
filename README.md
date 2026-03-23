@@ -40,6 +40,8 @@
 | ❌ Subscription Cancel App | Lovable | [View](https://lovable.dev/projects/7ece4840-ea6a-49e8-847a-38ba6412641e) |
 | 💪 Motivation for Her | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true) |
 | 🎯 Trivia Game | Lovable | [View](https://quiz-vibes-ai.lovable.app/) |
+| 🎯 Prize-wheel-fun | Lovable | [View](https://wheel-of-fortune-free.lovable.app/) |
+
 
 ### 💬 AI Agents & Bots
 | Bot | Platform | Link |
