@@ -39,7 +39,7 @@
 | 💧 Hydrate Happy App | Lovable | [View](https://lovable.dev/projects/7d965dc2-a628-4097-b383-4e24d7849ae7) |
 | ❌ Subscription Cancel App | Lovable | [View](https://lovable.dev/projects/7ece4840-ea6a-49e8-847a-38ba6412641e) |
 | 💪 Motivation for Her | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true) |
-| 🎯 Trivia Game | Lovable | [View](https://lovable.dev/projects/bca351ed-588b-4373-83a2-54362d44e575) |
+| 🎯 Trivia Game | Lovable | [View](https://quiz-vibes-ai.lovable.app/) |
 
 ### 💬 AI Agents & Bots
 | Bot | Platform | Link |
