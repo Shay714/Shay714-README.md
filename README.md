@@ -10,6 +10,7 @@
 ## 🚀 What I Do
 
 - 🤖 **AI App Development** — Building no-code AI apps using Lovable, Google AI Studio & Canva
+- 🤖 **AI Product Management** - PRD Documents for AI Projects
 - 🔐 **Cybersecurity Consulting** — Security audits, risk assessments & CMMC compliance guidance
 - 💬 **Custom AI Agents** — ChatGPT Custom GPTs and Google Gemini Gems for business use
 - 🎵 **AI Music** — Creating and producing AI-generated music and artists
