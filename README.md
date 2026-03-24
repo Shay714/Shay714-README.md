@@ -36,7 +36,7 @@
 ### 🤖 AI Apps
 | App | Platform | Link |
 |---|---|---|
-| 💧 Hydrate Happy App | Lovable | [View](https://lovable.dev/projects/7d965dc2-a628-4097-b383-4e24d7849ae7) |
+| 💧 Hydrate Happy App | Lovable | [View](https://hourly-water-whisper.lovable.app/) |
 | ❌ Subscription Cancel App | Lovable | [View](https://lovable.dev/projects/7ece4840-ea6a-49e8-847a-38ba6412641e) |
 | 💪 Motivation for Her | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true) |
 | 🎯 Trivia Game | Lovable | [View](https://quiz-vibes-ai.lovable.app/) |
