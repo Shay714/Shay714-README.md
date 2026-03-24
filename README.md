@@ -29,7 +29,7 @@
 ![Canva](https://img.shields.io/badge/Canva-Design%20%26%20Code-cyan?style=flat-square)
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759b?style=flat-square)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-CRM-orange?style=flat-square)
-
+![Open WebUI + Ollama](https://img.shields.io/badge/Open%20WebUI%20%2B%20Ollama-Local%20LLM%20Stack-black?style=flat-square)
 ---
 
 ## 📁 Featured Portfolio
