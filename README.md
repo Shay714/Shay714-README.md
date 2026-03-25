@@ -47,6 +47,7 @@
 | 💧 Water Time +| Google AI Studio | [View](https://aistudio.google.com/apps/drive/1Pl_MdC0xbaibBE-hCTRUIrfYxpMJgQGW?showPreview=true&showAssistant=true/) |
 | 💧 Water Remind | Canva | [View](https://water-remind-me.my.canva.site/) |
 | 📖 LinkedIn Bio Rewriter | Canva | [View](https://water-remind-me.my.canva.site/linkedin-bio-remix/) |
+| ⏲️ FocusFlip Timer | Lovable | [View](https://build-confirm-bot.lovable.app/) | 
 
 
 ### 💬 AI Agents & Bots
