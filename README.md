@@ -45,6 +45,8 @@
 | 🎯 Prize-wheel-fun | Lovable | [View](https://wheel-of-fortune-free.lovable.app/) |
 | ⚡ Women Motivational App | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true&showAssistant=true/) |
 | 💧 Water Time +| Google AI Studio | [View](https://aistudio.google.com/apps/drive/1Pl_MdC0xbaibBE-hCTRUIrfYxpMJgQGW?showPreview=true&showAssistant=true/) |
+| 💧 Water Remind | Canva | [View](https://water-remind-me.my.canva.site/) |
+| 📖 LinkedIn Bio Rewriter | Canva | [View](https://water-remind-me.my.canva.site/linkedin-bio-remix/) |
 
 
 ### 💬 AI Agents & Bots
