@@ -43,6 +43,8 @@
 | 💪 Motivation for Her | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true) |
 | 🎯 Trivia Game | Lovable | [View](https://quiz-vibes-ai.lovable.app/) |
 | 🎯 Prize-wheel-fun | Lovable | [View](https://wheel-of-fortune-free.lovable.app/) |
+| ⚡ Women Motivational App | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true&showAssistant=true/) |
+| 💧 Water Time +| Google AI Studio | [View](https://aistudio.google.com/apps/drive/1Pl_MdC0xbaibBE-hCTRUIrfYxpMJgQGW?showPreview=true&showAssistant=true/) |
 
 
 ### 💬 AI Agents & Bots
