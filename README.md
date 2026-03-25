@@ -22,7 +22,7 @@
 
 ## 🛠️ Tools & Platforms I Use
 
-![Loveable](https://img.shields.io/badge/Lovable-No--Code-blueviolet?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-No--Code-blueviolet?style=flat-square)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-AI-blue?style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-Custom%20GPTs-green?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-AI%20Agents-orange?style=flat-square)
@@ -38,11 +38,11 @@
 ### 🤖 AI Apps
 | App | Platform | Link |
 |---|---|---|
-| 💧 Hydrate Happy App | Loveable | [View](https://hourly-water-whisper.lovable.app/) |
-| ❌ Subscription Cancel App | Loveable | [View](https://lovable.dev/projects/7ece4840-ea6a-49e8-847a-38ba6412641e) |
+| 💧 Hydrate Happy App | Lovable | [View](https://hourly-water-whisper.lovable.app/) |
+| ❌ Subscription Cancel App | Lovable | [View](https://lovable.dev/projects/7ece4840-ea6a-49e8-847a-38ba6412641e) |
 | 💪 Motivation for Her | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true) |
-| 🎯 Trivia Game | Loveable | [View](https://quiz-vibes-ai.lovable.app/) |
-| 🎯 Prize-wheel-fun | Loveable | [View](https://wheel-of-fortune-free.lovable.app/) |
+| 🎯 Trivia Game | Lovable | [View](https://quiz-vibes-ai.lovable.app/) |
+| 🎯 Prize-wheel-fun | Lovable | [View](https://wheel-of-fortune-free.lovable.app/) |
 | ⚡ Women Motivational App | Google AI Studio | [View](https://aistudio.google.com/apps/drive/1TWEXLIfAuflC3g8yflJBbXcsxxz4DiSy?showPreview=true&showAssistant=true/) |
 | 💧 Water Time +| Google AI Studio | [View](https://aistudio.google.com/apps/drive/1Pl_MdC0xbaibBE-hCTRUIrfYxpMJgQGW?showPreview=true&showAssistant=true/) |
 | 💧 Water Remind | Canva | [View](https://water-remind-me.my.canva.site/) |
