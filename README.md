@@ -70,6 +70,12 @@
 
 ---
 
+### 🚀 Claude Code Projects
+
+| Project | Built With | Link |
+| --- | --- | --- |
+| 🌐 Cyber Socialites Full Website | Claude Code + Next.js 14 + TypeScript + Tailwind | [Visit](https://cybersocialites.com) |
+
 ## 📂 My GitHub Portfolio
 
 👉 **[View All Projects → AI-Projects-Portfolio](https://github.com/Shay714/AI-Projects-Portfolio)**
