@@ -66,6 +66,7 @@
 | 🏢 Cyber Socialites | GoHighLevel | [Visit](https://cybersocialites.com) |
 | 🥽 The Metaverse Guidebook | WordPress | [Visit](https://www.themetaverseguidebook.com) |
 | ⚱️ AI Business Summit funnel | Google AI Studio | [Visit](https://aistudio.google.com/apps/drive/1YfwWPki6F2dlHjA2mFmoXhe0r0fHFYSv?showPreview=true&showAssistant=true) |
+| 🤖 Cyber Socialites (Claude Code Build) | Next.js + Claude Code | [Visit](https://cybersocialites.com) |
 
 ---
 
