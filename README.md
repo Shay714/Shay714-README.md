@@ -31,6 +31,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759b?style=flat-square)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-CRM-orange?style=flat-square)
 ![Open WebUI + Ollama](https://img.shields.io/badge/Open%20WebUI%20%2B%20Ollama-Local%20LLM%20Stack-cyan?style=flat-square)
+[![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-orange?style=flat-square)](https://claude.ai)
 ---
 
 ## 📁 Featured Portfolio
